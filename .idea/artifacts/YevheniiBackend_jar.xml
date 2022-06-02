@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="YevheniiBackend:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/YevheniiBackend_jar</output-path>
+    <root id="archive" name="YevheniiBackend.jar">
+      <element id="module-output" name="YevheniiBackend" />
+    </root>
+  </artifact>
+</component>
